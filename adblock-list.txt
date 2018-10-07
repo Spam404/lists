@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6560
+! Version: 6557
 ! Last modified: 07 Oct 2018
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -23,9 +23,6 @@
 ##[href^="http://fileice.net/"]
 ##[href^="http://fileunlckr.com/"]
 ##[href^="http://linkz.it/"]
-##[href^="https://www.cpagrip.com/"]
-##[href^="http://adscendmedia.com/"]
-##[href^="http://adworkmedia.com/"]
 ##[href^="http://ulock.it/"]
 ##[href^="http://www.hacksandcodes.com/"]
 ##[href^="http://www.hdplugindownload.com/"]
