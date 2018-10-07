@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6515
+! Version: 6526
 ! Last modified: 07 Oct 2018
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -6510,6 +6510,17 @@ hepimovie.net###login
 ||esea-drop.com^
 ||eth-giving.com^
 ||btc-giving.com^
+||sywrenalts.com^
+||infernoalts.store^
+||mcshop.me^
+||verifiedalts.com^
+||altdispenser.net^
+||alt-gen.com^
+||altsforyou.org^
+||gommegen.eu^
+||fastalts.com^
+||superalts.com^
+||paidalts.com^
 !
 !
 !
