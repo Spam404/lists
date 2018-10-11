@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6548
+! Version: 6551
 ! Last modified: 11 Oct 2018
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -6543,6 +6543,9 @@ hepimovie.net###login
 ||mcleaks.net^
 ||freealts.pw^
 ||skinshits.fun^
+||dragons-cases.fun^
+||tradexskins.pw^
+||lnrtrade.com^
 !
 !
 !
