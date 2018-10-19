@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6558
-! Last modified: 15 Oct 2018
+! Version: 6563
+! Last modified: 19 Oct 2018
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -6553,6 +6553,11 @@ hepimovie.net###login
 ||connectingcloud.bid^
 ||datcsgo.org^
 ||datskins.eu^
+||newgamingstar.com^
+||rootcheats.com^
+||goprocheats.com^
+||cheatstrick.com^
+||cpbldi.com^
 !
 !
 !
