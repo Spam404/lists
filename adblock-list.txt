@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6608
+! Version: 6609
 ! Last modified: 12 Nov 2018
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -6603,6 +6603,7 @@ hepimovie.net###login
 ||skinsbits.com^
 ||fnbeta.app^
 ||steambonus.com^
+||steamgiftbonus.com^
 !
 !
 !
