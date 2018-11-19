@@ -7142,3 +7142,5 @@ skinsbits.com
 fnbeta.app
 steambonus.com
 steamgiftbonus.com
+get-bitcoin.website
+hardfork-bitcoinabc.info
