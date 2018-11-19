@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6609
-! Last modified: 12 Nov 2018
+! Version: 6611
+! Last modified: 19 Nov 2018
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -6604,6 +6604,8 @@ hepimovie.net###login
 ||fnbeta.app^
 ||steambonus.com^
 ||steamgiftbonus.com^
+||hardfork-bitcoinabc.info^
+||get-bitcoin.website^
 !
 !
 !
