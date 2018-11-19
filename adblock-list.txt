@@ -6606,6 +6606,7 @@ hepimovie.net###login
 ||steamgiftbonus.com^
 ||hardfork-bitcoinabc.info^
 ||get-bitcoin.website^
+||bchabc-bchsv-hardfork.info^
 !
 !
 !
