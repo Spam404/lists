@@ -9,8 +9,8 @@
 ! You can report unblocked content and direct general queries to us
 ! via e-mail - admin@spam404.com
 !
-! License: We give everyone permission to modify, copy and distribute this list.
-!          While not mandatory, we would appreciate credit if you use this list. 
+! License: https://github.com/Spam404/lists/blob/master/LICENSE.md/LICENSE.md
+!         
 !
 !-_-_-_-_-_-_-_-External Link Survey Scams-_-_-_-_-_-_-_-!
 ##[href^="http://cleanfiles.net/"]
