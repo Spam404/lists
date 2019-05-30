@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6768
-! Last modified: 28 May 2019
+! Version: 6769
+! Last modified: 30 May 2019
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -11,6 +11,7 @@
 !
 ! License: https://github.com/Spam404/lists/blob/master/LICENSE.md/LICENSE.md
 !         
+! IMPORTANT NOTE FOR CHROMIUM-BROWSER USERS: Our list does not, can not, and will never ever support Manifest v3, due to its laughably short rule limit and the removal of advanced syntaxes. Issue reports for Manifest v3-based extension versions will not be accepted, and if you do submit one, you would be asked to use an alternate web browser or web browser version instead.
 !
 !-_-_-_-_-_-_-_-External Link Survey Scams-_-_-_-_-_-_-_-!
 ##[href^="http://cleanfiles.net/"]
