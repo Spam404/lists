@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6808
+! Version: 6811
 ! Last modified: 12 Jun 2019
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -6803,6 +6803,9 @@ hepimovie.net###login
 ||skinxprize.com^
 ||lootplatform.pro^
 ||skinmobile.fun^
+||skinmonero.fun^
+||pubg.ru.com^
+||skin-traders.com^
 !
 !
 !
