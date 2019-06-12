@@ -7680,3 +7680,6 @@ skinown.fun
 skinxprize.com
 lootplatform.pro
 skinmobile.fun
+skinmonero.fun
+pubg.ru.com
+skin-traders.com
