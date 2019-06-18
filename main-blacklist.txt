@@ -7757,3 +7757,6 @@ fireskin.website
 multigamble.wtf
 worldcases.fun
 stardrop.fun
+giveawayskin.pro
+legendary-skins.fun
+stats-cs.ru
