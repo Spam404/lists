@@ -7760,3 +7760,6 @@ stardrop.fun
 giveawayskin.pro
 legendary-skins.fun
 stats-cs.ru
+multi.wtf
+xtopinventory.fun
+cloud-skins.fun
