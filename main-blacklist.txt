@@ -7804,3 +7804,5 @@ ggxskins.fun
 gqskinsx.fun
 justdrop.store
 glveway-st4ck.site
+st4ck-givesk1ns.site
+steamcrash.su
