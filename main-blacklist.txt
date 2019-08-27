@@ -7832,3 +7832,14 @@ csgoloot.site
 giffgaff-sim.support
 giffgaff.team
 giffgaff-simswap.help
+deezer-france.com
+musique-france.com
+cineflixillimite.com
+spotify-espana.com
+flix-film.com
+flixillimite.com
+flix-sub.com
+saison-x.com
+cadeaux-psn.com
+psn-jeux.com
+jeux-ps.com
