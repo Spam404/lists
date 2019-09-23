@@ -7872,3 +7872,5 @@ com-ex.ru
 com-ws.cz
 starsknife.fun
 asltralis-loot.fun
+astralis-loot.fun
+lootplanet.pw
