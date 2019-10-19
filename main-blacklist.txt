@@ -7889,3 +7889,4 @@ autobuy.io
 mcalts.store
 thiccalts.net
 mctrades.org
+freefire-generator.site
