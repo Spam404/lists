@@ -8079,3 +8079,4 @@ emiratesnbd-upgrade.icu
 emiratesnbd-account.icu
 emlratesnbd-bank.icu
 luckygaimes.cx
+luckygaims.cc
