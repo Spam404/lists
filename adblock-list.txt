@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 7060
+! Version: 7061
 ! Last modified: 31 Jan 2020
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -7055,6 +7055,7 @@ hepimovie.net###login
 ||emiratesnbd-account.icu^
 ||emlratesnbd-bank.icu^
 ||luckygaimes.cx^
+||luckygaims.cc^
 !
 !
 !
