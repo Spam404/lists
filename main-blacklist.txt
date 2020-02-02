@@ -8080,3 +8080,4 @@ emiratesnbd-account.icu
 emlratesnbd-bank.icu
 luckygaimes.cx
 luckygaims.cc
+vaccine-coronavirus.com
