@@ -8086,3 +8086,4 @@ ledgerweb.io
 ledger-web.us
 webexodus.ws
 ledger-web-wallet.com
+bitcoinsv-genesis.com
