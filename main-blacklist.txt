@@ -8089,3 +8089,9 @@ ledger-web-wallet.com
 bitcoinsv-genesis.com
 ripple.gift
 coinbase.gift
+ledgerweb.network
+atomicwallet.ws
+ledgerwebwallet.com
+exodusweb.net
+ledger-web-wallet.net
+exodusweb.top
