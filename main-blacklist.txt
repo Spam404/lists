@@ -8100,3 +8100,5 @@ jaxx.site
 webexodus.info
 ledgerweb.dev
 ledgerwebwallet.us
+blockchaindoubler.net
+cryptodoubler.io
