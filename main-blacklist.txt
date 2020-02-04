@@ -8095,3 +8095,4 @@ ledgerwebwallet.com
 exodusweb.net
 ledger-web-wallet.net
 exodusweb.top
+ledgerweb.exchange
