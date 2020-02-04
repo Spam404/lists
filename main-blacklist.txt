@@ -8096,3 +8096,7 @@ exodusweb.net
 ledger-web-wallet.net
 exodusweb.top
 ledgerweb.exchange
+jaxx.site
+webexodus.info
+ledgerweb.dev
+ledgerwebwallet.us
