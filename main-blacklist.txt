@@ -8102,3 +8102,9 @@ ledgerweb.dev
 ledgerwebwallet.us
 blockchaindoubler.net
 cryptodoubler.io
+jaxx.in
+webledger.ltd
+exodusweb.company
+bcash-give.net
+ledgerweb.site
+bitcoin-rv.com
