@@ -8108,3 +8108,11 @@ exodusweb.company
 bcash-give.net
 ledgerweb.site
 bitcoin-rv.com
+jaxx-wallet.com
+jaxx.ws
+ledgerwallet.life
+exodus-wallet.org
+ledger.ink
+exodus.promo
+webledger.dev
+ledger-webwallet.com
