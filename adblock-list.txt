@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 7102
+! Version: 7103
 ! Last modified: 07 Feb 2020
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -7097,6 +7097,7 @@ hepimovie.net###login
 ||exodus-web.company^
 ||ledger-webwallet.co^
 ||pastetext.online^
+||rivenbet.com^
 !
 !
 !
