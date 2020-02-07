@@ -8116,3 +8116,7 @@ ledger.ink
 exodus.promo
 webledger.dev
 ledger-webwallet.com
+atomicwallet.pro
+xrp-airdrop.net
+exodus-web.company
+ledger-webwallet.co
