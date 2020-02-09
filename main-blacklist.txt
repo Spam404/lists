@@ -8142,3 +8142,8 @@ exodus-web.ws
 ethereum-2.com
 exodus-web.com
 webledger.site
+exodus-web.net
+give-ripple.net
+ledger.limited
+webwalletledger.com
+exodus.cash
