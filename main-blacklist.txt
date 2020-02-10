@@ -8147,3 +8147,4 @@ give-ripple.net
 ledger.limited
 webwalletledger.com
 exodus.cash
+ex-exodus.info
