@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 7199
+! Version: 7200
 ! Last modified: 15 Nov 2020
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -7194,6 +7194,7 @@ hepimovie.net###login
 ||wifizone.org^
 ||rbipb.com^
 ||freegenerator.io^
+||generator3030.online^
 !
 !
 !
