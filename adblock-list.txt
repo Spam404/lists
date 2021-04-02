@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 7220
-! Last modified: 29 Mar 2021
+! Version: 7222
+! Last modified: 02 Apr 2021
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -7215,6 +7215,8 @@ hepimovie.net###login
 ||muskgives.net^
 ||muskgives.org^
 ||elongives.biz^
+||tesla-coins.net^
+||socialcapital.cc^
 !
 !
 !
