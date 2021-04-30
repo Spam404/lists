@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 7225
-! Last modified: 26 Apr 2021
+! Version: 7229
+! Last modified: 30 Apr 2021
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -7220,6 +7220,10 @@ hepimovie.net###login
 ||elon-gifts.net^
 ||crypto-gifts.net^
 ||rollbitgg.net^
+||moneroceo.com^
+||ltcdrop.com^
+||givesbnb.com^
+||btt-ceo.com^
 !
 !
 !
