@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 7229
-! Last modified: 30 Apr 2021
+! Version: 7251
+! Last modified: 02 May 2021
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -7224,6 +7224,28 @@ hepimovie.net###login
 ||ltcdrop.com^
 ||givesbnb.com^
 ||btt-ceo.com^
+||luxchecker.pw^
+||wsstore.cc^
+||zunostore.su^
+||cc-shop.su^
+||cardingforum.su^
+||ica.su^
+||ferumshop.su^
+||dumpsbuy.su^
+||fssquad.com^
+||cracked.sx^
+||spammer.ro^
+||fullzinfo.com^
+||thecrimebay.store^
+||cybercarders.su^
+||darkwebmafias.ws^
+||scans365.com^
+||frankdoc.site^
+||cweb.ws^
+||carderprofit.ws^
+||c2bit.mu^
+||crdclub.su^
+||phantomhacker.su^
 !
 !
 !
