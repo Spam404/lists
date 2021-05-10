@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 7265
-! Last modified: 09 May 2021
+! Version: 7269
+! Last modified: 10 May 2021
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -7260,6 +7260,10 @@ hepimovie.net###login
 ||adabonus2021.com^
 ||fundsdoge.org^
 ||fund-doge.net^
+||snlgive.org^
+||snlprize.net^
+||doge-event.net^
+||adabonus2021.net^
 !
 !
 !
