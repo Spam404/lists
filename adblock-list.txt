@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 7278
-! Last modified: 23 May 2021
+! Version: 7281
+! Last modified: 25 May 2021
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -7273,6 +7273,9 @@ hepimovie.net###login
 ||fasterfiles.net^
 ||smrturl.co^
 ||cpbild.co^
+||mb-1k.org^
+||fire36.com^
+||foryou1k.com^
 !
 !
 !
