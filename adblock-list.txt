@@ -3,7 +3,7 @@
 ! Title: Spam404
 ! Expires: 2 days
 ! Version: 7279
-! Last modified: 31 Oct 2022
+! Last modified: 02 Mar 2023
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -5719,7 +5719,6 @@ hepimovie.net###login
 ||logicielpirater.fr^
 ||wifipasser.com^
 ||wihack.com^
-||funinformatique.com^
 ||motdepasse.net^
 ||facebookpirateruncompte.com^
 ||pirater.gdn^
