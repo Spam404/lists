@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 7280
+! Version: 7282
 ! Last modified: 30 Jun 2023
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -7270,6 +7270,13 @@ hepimovie.net###login
 ||mb-1k.org^
 ||fire36.com^
 ||foryou1k.com^
+||apecoin.group^
+||psydex.gl^
+||psyopreward.xyz^
+||loyal-event.com^
+||apecoin.tf^
+||memecoin.li^
+||loyal.wf^
 !
 !
 !
