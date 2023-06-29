@@ -3,7 +3,7 @@
 ! Title: Spam404
 ! Expires: 2 days
 ! Version: 7280
-! Last modified: 30 May 2023
+! Last modified: 30 Jun 2023
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -4533,7 +4533,7 @@ hepimovie.net###login
 ||psncodegeneratornow.com^
 ||warofmercenarieshack.net^
 ||submityourgta5gamertag.com^
-||moviefox.us
+||moviefox.us^
 ||getcashforsurveys.com^
 ||zonepa.com^
 ||elitemoneymethods.com^
